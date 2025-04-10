@@ -30,7 +30,7 @@ June 2023 – July 2023 | Jorhat, India
 `Public Speaking` `Audience Analysis` `Team Management`
 
 ## 📫 Let's Connect!  
-[**GitHub:**](https://github.com/nitul8) [**LinkedIn:**](https://www.linkedin.com/in/nituldas/) [**LeetCode:**](https://leetcode.com/u/ndas6732/)  
+[**GitHub**](https://github.com/nitul8) [**LinkedIn**](https://www.linkedin.com/in/nituldas/) [**LeetCode**](https://leetcode.com/u/ndas6732/)  
 
 ⭐️ From [Nitul Das](https://github.com/nitul8)
 
