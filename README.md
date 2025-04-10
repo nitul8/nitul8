@@ -4,8 +4,8 @@
 `fullstack developer`
 
 ## 💡 About Me
-Experienced full-stack developer with expertise in various technologies.
-Thriving on the synergy between creativity and technology in web development.
+Experienced full-stack developer with expertise in various technologies.  
+Thriving on the synergy between creativity and technology in web development.  
 Enthusiastic about web accessibility, design systems, and scalable web design.
 
 ## 🛠️ Tech Stack
