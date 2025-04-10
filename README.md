@@ -4,9 +4,8 @@
 `fullstack developer`
 
 ## 💡 About Me
-Passionate full-stack developer thriving at the intersection of creativity and code.  
-Love building accessible, scalable, and elegant user interfaces.  
-Driven by curiosity, problem-solving, and continuous learning.
+Experienced full-stack developer with expertise in various technologies. Thriving on the synergy between creativity and technology in web development.
+Enthusiastic about web accessibility, design systems, and scalable web design.
 
 ## 🛠️ Tech Stack
 `HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Next.js` `TypeScript`  
