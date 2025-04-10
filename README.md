@@ -1,6 +1,6 @@
 <div style="font-family: 'Courier New', monospace; text-align: center;">
 
-# Hi, I'm Nitul Das 👋  
+# Hello, I'm Nitul Das 👋  
 `fullstack developer`
 
 ## 💡 About Me
@@ -17,21 +17,20 @@ Driven by curiosity, problem-solving, and continuous learning.
 `B.Tech in Computer Science & Engineering`  
 
 ## 💼 Experience
-**Astitva Foundation** — `Co-Founder & Lead`  
+**Astitva Foundation** — Co-Founder & Lead  
 Jan 2025 – Present | Jorhat, Assam  
 `React` `Tailwind CSS` `Node.js` `MongoDB` `Express.js`
 
-**IIT Guwahati** — `Research Intern`  
+**IIT Guwahati** — Research Intern  
 June 2024 – July 2024 | Guwahati, India  
 `Python` `TensorFlow` `NLP` `Deep Learning`
 
-**Ideal Abhijan** — `Social Intern`  
-June 2023 – July 2023 | Jorhat, India 
+**Ideal Abhijan** — Social Intern  
+June 2023 – July 2023 | Jorhat, India  
 `Public Speaking` `Audience Analysis` `Team Management`
 
 ## 📫 Let's Connect!  
 [**GitHub**](https://github.com/nitul8) [**LinkedIn**](https://www.linkedin.com/in/nituldas/) [**LeetCode**](https://leetcode.com/u/ndas6732/)  
 
 ⭐️ From [Nitul Das](https://github.com/nitul8)
-
 </div>
