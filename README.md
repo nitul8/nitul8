@@ -9,8 +9,8 @@ Thriving on the synergy between creativity and technology in web development.
 Enthusiastic about web accessibility, design systems, and scalable web design.
 
 ## 🛠️ Tech Stack
-`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Next.js` `TypeScript`  
-`Node.js` `Express.js` `MongoDB` `Python` `C/C++` `NPM` `Git` `VS Code`
+`JavaScript` `React.js` `Tailwind CSS` `Next.js` `TypeScript`  
+`Node.js` `Express.js` `MongoDB` `Python` `C/C++`
 
 ## 🎓 Education  
 **Jorhat Engineering College** (**2022 - 2026**)  
