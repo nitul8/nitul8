@@ -13,7 +13,7 @@ Enthusiastic about web accessibility, design systems, and scalable web design.
 `Node.js` `Express.js` `MongoDB` `Python` `C/C++` `NPM` `Git` `VS Code`
 
 ## 🎓 Education  
-**Jorhat Engineering College** **2022 - 2026** 
+**Jorhat Engineering College** (**2022 - 2026**)  
 `B.Tech in Computer Science & Engineering`  
 
 ## 💼 Experience
